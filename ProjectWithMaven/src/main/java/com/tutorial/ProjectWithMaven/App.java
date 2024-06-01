@@ -1,5 +1,7 @@
 package com.tutorial.ProjectWithMaven;
 
+import java.util.Date;
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
@@ -25,11 +27,19 @@ public class App {
 		st.setName("John");
 		st.setCity("Ahmedabad");
 		System.out.println(st);
+		
+		Address ad = new Address();
+		ad.setStreet("street1");
+		ad.setCity("AHMEDABAD");
+		ad.setOpen(true);
+		ad.setAddedDate(new Date());
+		ad.setX(1234.234);
 
 		Session session = factory.openSession();
 		Transaction tx = session.beginTransaction();
 
 		session.persist(st);
+		session.persist(ad);
 		tx.commit();
 
 		session.close();

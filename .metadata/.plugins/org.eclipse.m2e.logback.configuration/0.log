@@ -351,3 +351,23 @@
 2024-06-01 15:04:57,353 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-06-01 15:04:57,353 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\main\resources
 2024-06-01 15:04:57,354 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 15:04:57,354 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\test\resources
+2024-06-01 20:56:28,360 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-06-01 20:56:28,369 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 20:56:28,369 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\main\resources
+2024-06-01 20:56:28,370 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 20:56:28,371 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\test\resources
+2024-06-01 21:07:23,011 [Worker-58: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-06-01 21:07:23,014 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 21:07:23,015 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\main\resources
+2024-06-01 21:07:23,016 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 21:07:23,017 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\test\resources
+2024-06-01 21:10:05,058 [Worker-57: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-06-01 21:10:05,063 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 21:10:05,063 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\main\resources
+2024-06-01 21:10:05,064 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 21:10:05,064 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\test\resources
+2024-06-01 21:10:06,137 [Worker-58: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-06-01 21:10:06,139 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 21:10:06,139 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAJ\eclipse-workspace1\Hibernate\ProjectWithMaven\src\main\resources
+2024-06-01 21:10:06,140 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

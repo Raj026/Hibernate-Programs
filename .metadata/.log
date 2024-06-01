@@ -1094,3 +1094,18 @@ java.io.FileNotFoundException: /org/eclipse/persistence/jaxb/eclipselink_oxm_2_5
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-01 15:04:57.352
 !MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-01 20:56:28.363
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-01 21:07:23.013
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-01 21:10:05.059
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-01 21:10:06.138
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-01 21:10:48.218
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
