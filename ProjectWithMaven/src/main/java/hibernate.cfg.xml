@@ -15,5 +15,7 @@
 		<mapping class="com.tutorial.ProjectWithMaven.Address"/>
 		<mapping class="com.tutorial.mapping.Question"/>
 		<mapping class="com.tutorial.mapping.Answer"/>
+		<mapping class="com.tutorial.mapping.Project"/>
+		<mapping class="com.tutorial.mapping.Emp"/>
 	</session-factory>
 </hibernate-configuration>

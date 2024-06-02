@@ -1232,3 +1232,54 @@ java.io.FileNotFoundException: /org/eclipse/persistence/jaxb/eclipselink_oxm_2_5
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 14:14:58.361
 !MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:08:01.198
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:08:12.808
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:08:24.547
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:12:12.122
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:12:14.318
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:15:02.920
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:15:04.257
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:22:33.299
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:26:31.015
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:27:18.260
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:28:52.241
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:30:23.607
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:30:53.563
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:32:02.990
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:32:15.435
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:32:29.020
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 17:37:06.502
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
