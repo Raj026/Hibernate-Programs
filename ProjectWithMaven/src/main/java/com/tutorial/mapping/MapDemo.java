@@ -21,6 +21,7 @@ public class MapDemo {
 		Answer ans = new Answer();
 		ans.setAnswerId(12);
 		ans.setAnswer("Java is a programming language");
+		ans.setQuestion(q1);
 		
 		q1.setAnswer(ans);
 		
@@ -33,6 +34,7 @@ public class MapDemo {
 		Answer ans1 = new Answer();
 		ans1.setAnswerId(13);
 		ans1.setAnswer("OOPS stands for Object Oriented Programming");
+		ans1.setQuestion(q2);
 		
 		q2.setAnswer(ans1);
 

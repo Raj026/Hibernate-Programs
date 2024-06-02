@@ -3,6 +3,8 @@ package com.tutorial.mapping;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.OneToOne;
 
 @Entity
 public class Answer {
@@ -10,7 +12,18 @@ public class Answer {
 	@Column(name = "answer_id")
 	private int answerId;
 	
+	
 	private String answer;
+	@OneToOne
+	@JoinColumn(name = "q_id")
+	//used to perform bi-directional mapping between both tables
+	private Question question;
+	public Question getQuestion() {
+		return question;
+	}
+	public void setQuestion(Question question) {
+		this.question = question;
+	}
 	public int getAnswerId() {
 		return answerId;
 	}
