@@ -13,5 +13,7 @@
 		<property name="show_sql">true</property>
 		<mapping class="com.tutorial.ProjectWithMaven.Student"/>
 		<mapping class="com.tutorial.ProjectWithMaven.Address"/>
+		<mapping class="com.tutorial.mapping.Question"/>
+		<mapping class="com.tutorial.mapping.Answer"/>
 	</session-factory>
 </hibernate-configuration>

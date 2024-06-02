@@ -1178,3 +1178,45 @@ java.io.FileNotFoundException: /org/eclipse/persistence/jaxb/eclipselink_oxm_2_5
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:21:10.335
 !MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:31:35.594
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:31:50.122
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:33:24.900
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:34:33.532
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:35:24.422
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:35:35.601
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:41:29.190
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:42:49.174
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:43:42.799
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:43:54.962
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 13:48:19.563
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 14:01:49.456
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 14:07:57.969
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-06-02 14:09:32.892
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
