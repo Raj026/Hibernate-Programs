@@ -1,8 +1,7 @@
 package com.tutorial.ProjectWithMaven;
 
+import java.util.Arrays;
 import java.util.Date;
-
-import org.hibernate.annotations.Generated;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -16,6 +15,11 @@ import jakarta.persistence.Transient;
 @Entity
 @Table(name="student_address")
 public class Address {
+	@Override
+	public String toString() {
+		return "Address [addressId=" + addressId + ", street=" + street + ", city=" + city + ", isOpen=" + isOpen
+				+ ", x=" + x + ", addedDate=" + addedDate + ", image=" + Arrays.toString(image) + "]";
+	}
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	@Column(name="address_id")
