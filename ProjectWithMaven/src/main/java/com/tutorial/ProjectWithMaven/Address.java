@@ -3,7 +3,7 @@ package com.tutorial.ProjectWithMaven;
 import java.util.Arrays;
 import java.util.Date;
 
-import jakarta.persistence.Column;
+import jakarta.persistence.Column; 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
